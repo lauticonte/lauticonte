@@ -3,10 +3,10 @@ Estudiante de <b>Ing. en Sistemas<b> (UTN FRLP).
 - Aprendiendo `HTML5`, `CSS`, `Node.js`, `React.js`, `JavaScript`
 - #bitcoin <img src="https://abs.twimg.com/hashflags/Bitcoin_evergreen/Bitcoin_evergreen.png" width="15px">
 
-
-Happy Coding! 😊
-
-<br />
+```console
+lautaro@github ~$ Happy Coding! 😊
+```
+<hr>
 
 [![lauticonte GitHub stats](https://github-readme-stats.vercel.app/api?username=lauticonte)](https://github.com/lauticonte/github-readme-stats)
 
