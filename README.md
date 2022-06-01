@@ -1,4 +1,4 @@
-# Hola! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+# Hola! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="30px"></h2>
 WIP <b>Systems Engineer<b> (UTN FRLP).
 - Languages & tools: `HTML5`, `CSS`, `JavaScript`, `Node.js`, `React.js`
 - Learning:  `TypeScript`, `Solidity`, `Flutter`
